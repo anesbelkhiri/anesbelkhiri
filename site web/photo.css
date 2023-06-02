@@ -1,0 +1,49 @@
+body{
+margin:0;
+padding:0;
+}
+.css1{
+color: darkred;
+float: left;
+font-size: 60px;
+background-color: white;
+border-radius: 100% ;
+background-color: black;
+box-shadow: 20px 10px 20px ;
+}
+ul {
+    float:  right ;
+    list-style: none;
+}
+li{
+color: darkred;
+float: left;
+padding: 30px;
+margin: 20px;
+font-size: 22px;
+}
+nav{
+height:30%;
+background-color: dimgrey;
+}
+a{
+text-decoration: red;
+color: white;
+}
+.c1 {
+    height: auto;
+    width: auto;
+    background-color: red;
+    morgin-left: 50%;
+    width: 230px;
+    padding: 5px;
+}
+.i1 {
+    margin-top: 10%;
+    border-radius: 100%;
+    cursor: pointer;
+    margin-left: 100%;
+    justify-content: space-around;
+}
+
+

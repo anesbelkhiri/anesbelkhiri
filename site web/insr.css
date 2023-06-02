@@ -1,0 +1,46 @@
+body{
+margin:0;
+padding:0;
+}
+.css3 {
+    color: darkred;
+    float: left;
+    font-size: 50px;
+    background-color: black;
+    border-radius: 100%;
+    background-color: black;
+    box-shadow: 20px 10px 20px;
+}
+ul{
+float: right;
+list-style: none;
+}
+li{
+color: darkred;
+float: left;
+padding: 30px;
+margin: 20px;
+font-size: 22px;
+}
+nav{
+height:20%;
+background-color: gray;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.c1{
+
+height: 600px;
+
+
+background-image: url("c1.jpg");
+}
+.c2{
+
+padding: 150px;
+background-color: red;
+padding:10px;
+margin: 20px;
+}

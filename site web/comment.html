@@ -1,0 +1,44 @@
+<!doctype>
+
+<html>
+<head>
+<title> site web </title>
+<link rel="stylesheet" href="site.css">
+<script language="javascript">
+function controle(form1){
+var a =document. form1.input.value;
+document.form1.output.value = a;
+}
+</script>
+
+</head>
+<body>
+<nav>
+<h1 class="css1"><a href="an.html">accueil</a></h1>
+<ul>
+<li><a href="cv.html">cv</a></li>
+<li><a href="comment.html">les commentaires</a></li>
+<li><a href="photo.html">les photos</a></li>
+<li><a href="insr.html">formulaire d’inscription</a></li>
+</ul>
+</nav>
+<div class= "c1">
+
+<div class= "c2">
+<form name="form1">
+<label>ajouter une commentaire:</label><br>
+<input type ="text" name="input" value=""><br>
+<input type ="button" name="bouton" value="add" onclick="controle(form1)"><br>
+<input type ="text" name="output" value=""><br>
+</form>
+</div>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
